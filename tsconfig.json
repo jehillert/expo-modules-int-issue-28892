@@ -1,0 +1,43 @@
+{
+  "compilerOptions": {
+    "plugins": [
+      {
+        "name": "@styled/typescript-styled-plugin",
+        "lint": {
+          "validProperties": [
+            "aspect-ratio",
+            "box-shadow",
+            "elevation",
+            "margin-horizontal",
+            "margin-vertical",
+            "padding-horizontal",
+            "padding-vertical",
+            "resize-mode",
+            "shadow-color",
+            "shadow-offset",
+            "shadow-opacity",
+            "shadow-radius",
+            "text-align-vertical",
+            "tint-color"
+          ]
+        }
+      }
+    ],
+    "moduleSuffixes": [".android", ".ios", ""],
+    "noErrorTruncation": true,
+    "lib": ["DOM", "dom.iterable"],
+    "resolveJsonModule": true,
+    "useUnknownInCatchVariables": true,
+    "paths": {
+      "react": ["./node_modules/@types/react"],
+      "@lib/*": ["./lib/*"]
+    },
+    "baseUrl": "."
+  },
+  "include": ["./src", "./lib", "i18.ts"],
+  "rootDirs": ["./src"],
+  "extends": "@tsconfig/react-native/tsconfig.json"
+}
+
+
+// https://reactnative.dev/docs/fast-refresh

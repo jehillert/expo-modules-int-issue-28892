@@ -1,0 +1,61 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/Roboto-Regular.ttf",
+      "sha1": "56c5c0d38bde4c1f1549dda43db37b09c608aad3"
+    },
+    {
+      "path": "src/assets/doc/alice_in_wonderland.html",
+      "sha1": "622353233d1b600bbe15c7dfe4c92fd43c221b96"
+    },
+    {
+      "path": "src/assets/doc/intro_to_lorem.html",
+      "sha1": "200fe03e3a54ff9ef1d349420786ab06b2eae831"
+    },
+    {
+      "path": "src/assets/doc/marbury_v_madison.html",
+      "sha1": "73dc54926d97d4447d77435d1c1a03bef89cdb4e"
+    },
+    {
+      "path": "src/assets/img/getting_started_share_image_1.jpg",
+      "sha1": "da9d3a4f482c4118926983af8b5a8d387bbeec36"
+    },
+    {
+      "path": "src/assets/img/getting_started_share_image_2.jpg",
+      "sha1": "2868d4b506079680642eccbb01007df8d877d0e6"
+    },
+    {
+      "path": "src/assets/img/getting_started_share_image_3.jpg",
+      "sha1": "aa14e58b0c8e36eb98d55faff81d76f2fcd6014f"
+    },
+    {
+      "path": "src/assets/img/getting_started_share_image_4.jpg",
+      "sha1": "722f675e1e2e92cdc429abc3ccd50dd2701233cb"
+    },
+    {
+      "path": "src/assets/img/getting_started_share_image_5.png",
+      "sha1": "9f539328636e6bffdba8b6d97099ac3010da26c5"
+    },
+    {
+      "path": "src/assets/index.ts",
+      "sha1": "d7096c90491b25d6989067e6508ce81b473dde81"
+    },
+    {
+      "path": "src/assets/svg/drag-stripe.svg",
+      "sha1": "66da25c406c4005656c125c7c0ca558fbb363880"
+    },
+    {
+      "path": "src/assets/svg/highlights.svg",
+      "sha1": "399d818e60634387a2bf01261e36c9aec5bfc7f2"
+    },
+    {
+      "path": "src/assets/svgr/MarkupOutlineSvg.tsx",
+      "sha1": "b2dccfc5cbd1def5455e8acf7a4f3d16679ccc24"
+    },
+    {
+      "path": "src/assets/webapp/index.html",
+      "sha1": "ff3b5627d6a6fabe8212a3ac2b68285eb931257d"
+    }
+  ]
+}

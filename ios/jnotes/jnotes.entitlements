@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>aps-environment</key>
+    <string>development</string>
+    <key>com.apple.developer.associated-domains</key>
+    <array>
+      <string>https://modicum-transformations-ff32eba83382.herokuapp.com</string>
+      <string>http://192.168.254.52:3000</string>
+      <string>http://192.168.254.52:5173</string>
+      <string>https://127.0.0.1:5173</string>
+      <string>https://127.0.0.1:3000</string>
+    </array>
+    <key>com.apple.security.application-groups</key>
+    <array>
+      <string>group.org.reactjs.native.example.jnotes</string>
+    </array>
+  </dict>
+</plist>
